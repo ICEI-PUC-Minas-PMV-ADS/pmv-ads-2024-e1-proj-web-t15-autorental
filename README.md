@@ -39,15 +39,6 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 <li><a href="docs/13-Referências.md"> Referências</a></li>
 </ol>
 
-<h2>Hospedagem</h2>
-A aplicação em HTML/CSS/JS é um projeto que pode ser utilizado tanto em servidores como em navegadores web. Clique aqui para acessá-lo.
-
-<h2>Código-Fonte</h2>
-Código Fonte
-
-<h2>Apresentação</h2>
-Apresentação da solução
-
 
 ## Instruções de utilização
 
