@@ -1,14 +1,48 @@
-# TÍTULO DO PROJETO
+# AUTORENTAL
+Análise e Desenvolvimento de Sistemas - PUC Minas
 
-`CURSO`
+Desenvolvimento de aplicação web front-end
 
-`DISCIPLINA`
-
-`SEMESTRE`
+1º semestre/2024
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
-## Integrantes
+<h2>Integrantes</h2>
+<ul>
+  <li>Arthur Vitor</li>
+  <li>Breno Marques</li>
+  <li>Marcus Eliezer Cardoso</li>
+  <li>Milvio Henrique Mendes</li>
+  <li>Ronaldy Caetano</li>
+</ul>
+
+<h2>Professor Orientador</h2>
+<ul>
+  <li>Viviane de Almeida Tôrres</li>
+</ul>
+
+<h2>Documentação</h2>
+<ol>
+  <li>Documentação de Contexto</li>
+  <li>Especificação do Projeto</li>
+  <li>Metodologia</li>
+  <li>Projeto de Interface</li>
+  <li>Template padrão do Site</li>
+  <li>Programação de Funcionalidades</li>
+  <li>Plano de Testes de Software</li>
+  <li>Registro de Testes de Software</li>
+  <li>Referências</li>
+</ol>
+
+<h2>Hospedagem</h2>
+A aplicação em HTML/CSS/JS é um projeto que pode ser utilizado tanto em servidores como em navegadores web. Clique aqui para acessá-lo.
+
+<h2>Código-Fonte</h2>
+Código Fonte
+
+<h2>Apresentação</h2>
+Apresentação da solução
+
 
 * Nome completo do aluno 1
 * Nome completo do aluno 2
