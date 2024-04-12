@@ -21,42 +21,6 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
   <li>Viviane de Almeida Tôrres</li>
 </ul>
 
-<h2>Documentação</h2>
-<ol>
-  <li>Documentação de Contexto</li>
-  <li>Especificação do Projeto</li>
-  <li>Metodologia</li>
-  <li>Projeto de Interface</li>
-  <li>Template padrão do Site</li>
-  <li>Programação de Funcionalidades</li>
-  <li>Plano de Testes de Software</li>
-  <li>Registro de Testes de Software</li>
-  <li>Referências</li>
-</ol>
-
-<h2>Hospedagem</h2>
-A aplicação em HTML/CSS/JS é um projeto que pode ser utilizado tanto em servidores como em navegadores web. Clique aqui para acessá-lo.
-
-<h2>Código-Fonte</h2>
-Código Fonte
-
-<h2>Apresentação</h2>
-Apresentação da solução
-
-
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-
-## Orientador
-
-* Nome completo do professor 1
-
-## Instruções de utilização
-
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
-
 # Documentação
 
 <ol>
@@ -74,6 +38,21 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 <li><a href="docs/12-Apresentação do Projeto.md"> Apresentação do Projeto</a></li>
 <li><a href="docs/13-Referências.md"> Referências</a></li>
 </ol>
+
+<h2>Hospedagem</h2>
+A aplicação em HTML/CSS/JS é um projeto que pode ser utilizado tanto em servidores como em navegadores web. Clique aqui para acessá-lo.
+
+<h2>Código-Fonte</h2>
+Código Fonte
+
+<h2>Apresentação</h2>
+Apresentação da solução
+
+
+## Instruções de utilização
+
+Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
+
 
 # Código
 
