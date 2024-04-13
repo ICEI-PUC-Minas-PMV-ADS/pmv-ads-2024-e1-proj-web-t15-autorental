@@ -1,46 +1,47 @@
-# Introdução
+## Introdução
+A sociedade e as organizações estão começando a reconsiderar suas abordagens em relação ao consumo, que até então estavam principalmente centradas nas necessidades e desejos dos consumidores. O aumento das transações frequentes levou a um consumo excessivo, gerando preocupações na sociedade devido à disponibilidade limitada de recursos. Seja por uma conscientização dos possíveis impactos futuros ou por novas demandas surgidas em meio aos avanços tecnológicos, observa-se uma mudança nos padrões de produção e consumo, anteriormente centrados na posse, essa mudança de  padrões agora atribuem maior importância à experiência e utilização dos produtos e experiência do cliente.
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+Como alternativa, surge a chamada economia compartilhada ou o consumo colaborativo, fenômeno emergente que oferece aos consumidores possibilidades de compartilhamento, troca, negociação ou aluguel (BOTSMAN; ROGERS, 2011)
 
-## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
+## Problema 
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
-
-## Objetivos
-
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
-
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+O problema apresentado e que o projeto busca abordar, é a dificuldade encontrada na hora de se locar um veículo por uma empresa privada. Outro problema a ser abordado, é a falta de possibilidade e/ou alternativas para que as pessoas consigam gerar um complemento  de renda. 
+Objetivos
+Visando diminuir a burocracia em alugar um veículo em uma empresa privada, desenvolvemos um programa de alugueis de veículos, onde pessoas físicas podem anunciar seus próprios veículos para aluguel. Onde além de facilitar o aluguel do veículo, também pode gerar uma renda extra para quem está alugando.
+Além de conectar proprietários de veículos a pessoas em busca de uma experiência de aluguel personalizada e conveniente. No cenário atual onde a economia compartilhada está em ascensão, o foco é desenvolver uma maneira fácil e segura para indivíduos monetizarem seus carros em períodos ociosos e para outros aproveitarem uma ampla variedade de opções de aluguel de veículos.
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+De acordo com o Blog TOTVS, a economia compartilhada, refere-se à troca de bens e serviços entre indivíduos, um modelo baseado no engajamento e colaboração, capacitado pela tecnologia. 
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+A economia do compartilhamento funciona com base nos princípios de colaboração e troca mútua de bens e serviços. Ele permite que os indivíduos compartilhem seus recursos e ativos, como carros, casas e habilidades, entre outros, com outras pessoas que precisam deles. 
+Pensando nisso, a criação de espaços digitais, com o objetivo de introduzir e levar ao conhecimento da população, as vantagens da economia compartilhada e sua funcionalidade pode ser de grande utilidade, uma vez que facilita a forma de se locar bens materiais em comum, de pessoa para pessoa.
+Havendo como vantagens:
+Economia de custos: ao compartilhar recursos, indivíduos e empresas podem reduzir custos e melhorar os resultados financeiros do seu negócio.
+Maior acessibilidade: um de seus pilares é facilitar o acesso das pessoas a bens e serviços, bem como a geração de renda.
+Benefícios ambientais: reduz o desperdício e promove o consumo sustentável.
 
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+## Público-alvo
 
-## Público-Alvo
+Observando o cenário atual, onde uma grande parte da população se encontra em busca de melhorar sua renda: Temos como público-alvo, pessoas que possuam um veículo para alugar e pessoas que queiram alugar um veículo.
+Estabelecendo como público-alvo desse projeto, homens e mulheres, que estejam a procura de aumentar sua renda. Sendo, locador ou locatário de um ou mais veículos.
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
+Especificando melhor, nosso público central, seria:
+  
+Proprietários de veículos: Pessoas que possuem um ou mais veículos e estão interessadas em ganhar uma renda extra, alugando seus veículos quando não estão em uso.
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
+Locatários em potencial: Indivíduos que precisam de um veículo temporário para viagens, passeios, compromissos ou outras necessidades de transporte, mas preferem uma opção de aluguel mais acessível e conveniente.
 
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+Para de definir o público-alvo, foram realizadas pesquisas, onde apontaram um público em potencial para fazer a utilização desse serviço. sendo eles:
+
+Turistas ou viajantes a negócios, que visitam uma cidade por um curto período e precisam de um meio de transporte temporário para se locomover durante sua estadia.
+
+Pessoas que vivem em áreas urbanas com alta densidade populacional, onde possuir um veículo  pode ser caro ou impraticável, mas ocasionalmente precisam de um veículo para ocasiões específicas como fazer compras ou realizar viagens ou passeios..
+
+Pessoas com necessidades familiares e de conforto que precisam da locomoção tanto para tarefas diárias como para emergências, como acompanhar um parente em uma consulta médica.
+
+Pessoas que desejam alugar veículos de grande porte para realizar fretes, transporte de grandes mercadorias que não poderiam ser carregadas em veículos convencionais.
+
+Pessoas jovens que não possuem um veículo  próprio devido a restrições financeiras ou preferências de estilo de vida, mas que ocasionalmente necessitem de um veículo  para eventos especiais ou viagens.
+
+Pessoas preocupadas com o impacto ambiental do consumo excessivo e interessadas em opções de transporte mais sustentáveis, como compartilhamento de carros.
