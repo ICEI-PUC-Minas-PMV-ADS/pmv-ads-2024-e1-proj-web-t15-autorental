@@ -41,7 +41,7 @@ Figura 1 - Quadro Kanbam gerenciado pelo grupo.
 
 ![Label](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t15-autorental/assets/164096060/e90b99e1-46f1-4d22-91e4-2413759bc56f)
 
-
+Figura 2 - Categorias de Etiquetas Utilizadas.
 
 Done: nesta lista são colocadas as tarefas finalizadas e as que passaram pelos testes e controle de qualidade, prontas para serem entregues aos usuários.
 
