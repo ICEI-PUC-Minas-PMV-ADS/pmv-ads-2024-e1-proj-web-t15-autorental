@@ -16,11 +16,7 @@ A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para def
 
 ### Processo
 
-Utilizando o GitHub, fizemos a divisão e organização das tarefas. Estruturadas da seguite forma:
-
-Product Backlog: recebe as tarefas a serem trabalhadas e representa o Backlog do produto. Todas as atividades identificadas no decorrer do projeto são incorporadas a esta lista.
-
-O metodo organizacional utilizado pelo grupp foi o Kanban, que pode ser acessado clicando [aqui](https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/1047/views/1) .
+Utilizando o GitHub, fizemos a divisão e organização das tarefas. Estruturadas seguindo o metodo organizacional utilizado pelo grupp foi o Kanban, que pode ser acessado clicando [aqui](https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/1047/views/1) .
 
 ![Backlog Kanban](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t15-autorental/assets/164096060/4e8a1136-7c4a-472a-89af-1738b6b786dd)
 
@@ -42,8 +38,6 @@ Figura 1 - Quadro Kanbam gerenciado pelo grupo.
 ![Label](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t15-autorental/assets/164096060/e90b99e1-46f1-4d22-91e4-2413759bc56f)
 
 Figura 2 - Categorias de Etiquetas Utilizadas.
-
-Done: nesta lista são colocadas as tarefas finalizadas e as que passaram pelos testes e controle de qualidade, prontas para serem entregues aos usuários.
 
 
 ### Ferramentas
