@@ -20,6 +20,8 @@ Utilizando o GitHub, fizemos a divisão e organização das tarefas. Estruturada
 
 Product Backlog: recebe as tarefas a serem trabalhadas e representa o Backlog do produto. Todas as atividades identificadas no decorrer do projeto são incorporadas a esta lista.
 
+O metodo organizacional utilizado pelo grupp foi o Kanban, que pode ser acessado clicando [aqui](https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/1047/views/1) .
+
 In progress: lista das tarefas iniciadas.
 
 Done: nesta lista são colocadas as tarefas finalizadas e as que passaram pelos testes e controle de qualidade, prontas para serem entregues aos usuários.
