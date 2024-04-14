@@ -22,6 +22,11 @@ Product Backlog: recebe as tarefas a serem trabalhadas e representa o Backlog do
 
 O metodo organizacional utilizado pelo grupp foi o Kanban, que pode ser acessado clicando [aqui](https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/1047/views/1) .
 
+![Backlog Kanban](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t15-autorental/assets/164096060/4e8a1136-7c4a-472a-89af-1738b6b786dd)
+
+Figura 1 - Quadro Kanbam gerenciado pelo grupo.
+
+
 In progress: lista das tarefas iniciadas.
 
 Done: nesta lista são colocadas as tarefas finalizadas e as que passaram pelos testes e controle de qualidade, prontas para serem entregues aos usuários.
