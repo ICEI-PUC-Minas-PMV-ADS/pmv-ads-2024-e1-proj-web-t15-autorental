@@ -17,9 +17,9 @@ Proprietário do veículo
 <tr>
 <td><b>Necessidades</b></td>
 <td>
-1 - Disponibilizar meu veículo para locação.
-2 - Ter garantia da devolução do veículo em bom estado 
-3 - Ter garantia que está locando para alguém habilitado e capacitado
+1 - Disponibilizar meu veículo para locação.<br>
+2 - Ter garantia da devolução do veículo em bom estado<br>
+3 - Ter garantia que está locando para alguém habilitado e capacitado<br>
 4 - Ter segurança de recebimento do valor negociado
 </td>
 </tr>
