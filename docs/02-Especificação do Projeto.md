@@ -41,8 +41,8 @@ Locador do veículo
 <td><b>Necessidades</b></td>
 <td>
 1 - Alugar o veículo
-2 - Ter garantia que o veículo locado está em bom estado
-3 - Ter garantia que o veículo está disponível
+2 - Ter garantia que o veículo locado está em bom estado<br>
+3 - Ter garantia que o veículo está disponível<br>
 4 - Ter segurança do valor de pagamento acordado
 </td>
 </tr>
