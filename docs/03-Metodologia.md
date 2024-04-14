@@ -4,7 +4,9 @@
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
 
 Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).<br>
-##Scrum é framework de metodologias ágeis, que junto de suas regras e artefatos priorizam uma entrega funcional a curto prazo. Sua equipe é considerada pequena e auto-orgazináveis, buscando sempre trabalhar em conjunto para um desenvolvimento e entrega do produto com alta qualidade##
+##
+O Manifesto Ágil defende que responder as mudanças é mais importante do que seguir um plano. Por se tratar de um framework ágil, Scrum encara as mudanças como parte natural do processo de desenvolvimento. Com a atualização do Product Backlog, as novas solicitações do cliente podem ser introduzidas no próximo sprint, gerando vantagem competitiva para as empresas.
+Scrum é framework de metodologias ágeis, que junto de suas regras e artefatos priorizam uma entrega funcional a curto prazo. Sua equipe é considerada pequena e auto-orgazináveis, buscando sempre trabalhar em conjunto para um desenvolvimento e entrega do produto com alta qualidade##
 
 
 ## Relação de Ambientes de Trabalho
