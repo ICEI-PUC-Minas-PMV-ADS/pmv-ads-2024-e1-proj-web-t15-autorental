@@ -1,7 +1,7 @@
 
 # Metodologia
 
-<p>A metodologia ágil escolhida para o desenvolvimento deste projeto foi o SCRUM, que é um framework de metodologias ágeis, que junto de suas regras e artefatos priorizam uma entrega funcional a curto prazo. A equipe do SCRUM é considerada pequena e auto-organizável, buscando sempre trabalhar em conjunto para um desenvolvimento e entrega do produto com alta qualidade.</p>
+<p>A metodologia ágil escolhida para o processo de desenvolvimento deste projeto foi o SCRUM, que junto de suas regras e artefatos priorizam uma entrega funcional a curto prazo. A equipe do SCRUM é considerada pequena e auto-organizável, buscando sempre trabalhar em conjunto para um desenvolvimento e entrega do produto com alta qualidade.</p>
 <p>O Manifesto Ágil defende que responder às mudanças é mais importante do que seguir um plano. Por se tratar de um framework ágil, o Scrum encara as mudanças como parte natural do processo de desenvolvimento. Com a atualização do Product Backlog, as novas solicitações do cliente podem ser introduzidas no próximo sprint, gerando vantagem competitiva.</p>
 
 
@@ -45,9 +45,7 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 
 ### Divisão de Papéis
 
-Apresente a divisão de papéis entre os membros do grupo.
-
-Exemplificação: A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento. A equipe está organizada da seguinte maneira:
+A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento. A equipe está organizada da seguinte maneira:
 - Scrum Master: Marcus Eliezer Cardoso;
 - Product Owner: Milvio Henrique Mendes;
 - Equipe de Desenvolvimento: Marcus Eliezer Cardoso, Ronaldy Caetano, Breno Marques;
