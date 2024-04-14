@@ -17,9 +17,9 @@ Proprietário do veículo
 <tr>
 <td><b>Necessidades</b></td>
 <td>
-1 - Disponibilizar meu veículo para locação.
-2 - Ter garantia da devolução do veículo em bom estado 
-3 - Ter garantia que está locando para alguém habilitado e capacitado
+1 - Disponibilizar meu veículo para locação.<br>
+2 - Ter garantia da devolução do veículo em bom estado<br>
+3 - Ter garantia que está locando para alguém habilitado e capacitado<br>
 4 - Ter segurança de recebimento do valor negociado
 </td>
 </tr>
@@ -40,9 +40,9 @@ Locador do veículo
 <tr>
 <td><b>Necessidades</b></td>
 <td>
-1 - Alugar o veículo
-2 - Ter garantia que o veículo locado está em bom estado
-3 - Ter garantia que o veículo está disponível
+1 - Alugar o veículo<br>
+2 - Ter garantia que o veículo locado está em bom estado<br>
+3 - Ter garantia que o veículo está disponível<br>
 4 - Ter segurança do valor de pagamento acordado
 </td>
 </tr>
@@ -54,15 +54,15 @@ Locador do veículo
 |EU COMO...| QUERO/PRECISO ...|PARA ...|
 |--------------------|------------------------------------|----------------------------------------|
 | Locatátio | Alugar um carro | Para trabalhar ou exercer atividades do dia a dia |
-| Locatátio | Conseguir reservar o aluguel de um veículo | Consegui garantir a disponibilidade do veículo na data desejada |
-| Locatátio | Conseguir pesquisar os veículos disponíveis | para alugar o que melhor atenda as minhas necessidades |
-| Locatátio | Conseguir visualizar as informações de contato com o locatário | para conseguir instruções de onde deve buscar e entregar o veículo |
-| Locatátio | Conseguir visualizar o valor de aluguel | para saber se o valor está dentro do meu orçamento |
-| Locatátio | Conseguir cadastrar as informações para pagamento | garantindo o pagamento segurança na negociação |
-| Locador | Apresentar seus dados de contato | para conseguir combinar com o locatário o local que ele deve buscar e entregar o veículo |
+| Locatátio | Conseguir reservar o aluguel de um veículo | Conseguir garantir a disponibilidade do veículo na data desejada |
+| Locatátio | Conseguir pesquisar os veículos disponíveis | Para alugar o que melhor atenda as minhas necessidades |
+| Locatátio | Conseguir visualizar as informações de contato com o locatário | Para conseguir instruções de onde deve buscar e entregar o veículo |
+| Locatátio | Conseguir visualizar o valor de aluguel | Para saber se o valor está dentro do meu orçamento |
+| Locatátio | Conseguir cadastrar as informações para pagamento | Garantindo o pagamento segurança na negociação |
+| Locador | Apresentar seus dados de contato | Para conseguir combinar com o locatário o local que ele deve buscar e entregar o veículo |
 | Locador | Cadastrar meu veículo para aluguel | Conseguir um complemento na renda |
-| Locador | Indicar o valor de aluguel do veículo |  para garantir que irei receber o valor que desejo pelo aluguel |
-| Locador | Cadastrar meus dados bancários | para recebimento do valor do aluguel |
+| Locador | Indicar o valor de aluguel do veículo |  Para garantir que irei receber o valor que desejo pelo aluguel |
+| Locador | Cadastrar meus dados bancários | Para recebimento do valor do aluguel |
 
 Requisitos do Projeto
 
