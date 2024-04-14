@@ -26,8 +26,22 @@ O metodo organizacional utilizado pelo grupp foi o Kanban, que pode ser acessado
 
 Figura 1 - Quadro Kanbam gerenciado pelo grupo.
 
+### Etiquetas
+<p>As tarefas são de acordo com a atividade e seguem o seguinte esquema de categorias:</p>
 
-In progress: lista das tarefas iniciadas.
+<ul>
+  <li>Backlog do Produto</li>
+  <li>A fazer/Pendentes</li>
+  <li>Em Andamento</li>
+  <li>Em teste</li>
+  <li>Em revisão</li>
+  <li>Completas</li>
+  <li>Bug</li>
+</ul>
+
+![Label](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t15-autorental/assets/164096060/e90b99e1-46f1-4d22-91e4-2413759bc56f)
+
+
 
 Done: nesta lista são colocadas as tarefas finalizadas e as que passaram pelos testes e controle de qualidade, prontas para serem entregues aos usuários.
 
