@@ -48,8 +48,8 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 Apresente a divisão de papéis entre os membros do grupo.
 
 Exemplificação: A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento. A equipe está organizada da seguinte maneira:
-- Scrum Master: Felipe Domingos;
-- Product Owner: Rommel Carneiro;
+- Scrum Master: Marcus Eliezer Cardoso;
+- Product Owner: Milvio Henrique Mendes;
 - Equipe de Desenvolvimento: Pedro Penna, Pedro Ivo, Rodrigo Richard;
 - Equipe de Design: Simone Nogueira.
 
