@@ -1,8 +1,6 @@
 
 # Metodologia
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
-
 <p>A metodologia ágil escolhida para o desenvolvimento deste projeto foi o SCRUM, que é um framework de metodologias ágeis, que junto de suas regras e artefatos priorizam uma entrega funcional a curto prazo. A equipe do SCRUM é considerada pequena e auto-organizável, buscando sempre trabalhar em conjunto para um desenvolvimento e entrega do produto com alta qualidade.</p>
 <p>O Manifesto Ágil defende que responder às mudanças é mais importante do que seguir um plano. Por se tratar de um framework ágil, o Scrum encara as mudanças como parte natural do processo de desenvolvimento. Com a atualização do Product Backlog, as novas solicitações do cliente podem ser introduzidas no próximo sprint, gerando vantagem competitiva.</p>
 
