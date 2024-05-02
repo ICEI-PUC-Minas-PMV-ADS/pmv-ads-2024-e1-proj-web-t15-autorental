@@ -33,7 +33,7 @@ Público-alvo
 
 Observando o cenário atual, onde uma grande parte da população se encontra em busca de melhorar sua renda: Temos como público-alvo, pessoas que possuam um veículo para alugar e pessoas que queiram alugar um veículo.
 
-Estabelecendo como público-alvo desse projeto, homens e mulheres, maiores de 18 anos, e que sejam habilitados; que estejam a procura de aumentar sua renda, ou estejam precisando de locar um veículo. Sendo, locador ou locatário de um ou mais veículos.
+Estabelecendo como público-alvo desse projeto, homens e mulheres, maiores de 18 anos, e que sejam habilitados; que estejam a procura  de aumentar sua renda, ou estejam precisando de locar um veículo. Sendo, locador ou locatário de um ou mais veículos.
 Especificando melhor, nosso público central, seria:
   
 Proprietários de veículos: Pessoas que possuem um ou mais veículos e estão interessadas em ganhar uma renda extra, alugando seus veículos quando não estão em uso.
