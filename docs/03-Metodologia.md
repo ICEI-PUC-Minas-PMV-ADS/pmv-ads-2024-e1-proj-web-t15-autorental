@@ -52,9 +52,8 @@ O editor de código foi escolhido porque ele possui uma integração com o siste
 
 Liste quais ferramentas foram empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
 
-| AMBIENTE | PLATAFORMA | LINK DE ACESSO |
-| Repositório de código | GitHub | 
-| Documentos de projeto | GitHub | 
-| Gerenciamento de projeto | GitHub |
+|         AMBIENTE         | PLATAFORMA | LINK DE ACESSO |
+
+
 
 
