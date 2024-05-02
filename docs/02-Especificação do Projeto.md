@@ -53,15 +53,16 @@ Locador do veículo
 
 |EU COMO...| QUERO/PRECISO ...|PARA ...|
 |--------------------|------------------------------------|----------------------------------------|
-| Locatátio | Alugar um carro | Para trabalhar ou exercer atividades do dia a dia |
-| Locatátio | Conseguir reservar o aluguel de um veículo | Conseguir garantir a disponibilidade do veículo na data desejada |
-| Locatátio | Conseguir pesquisar os veículos disponíveis | Para alugar o que melhor atenda as minhas necessidades |
-| Locatátio | Conseguir visualizar as informações de contato com o locatário | Para conseguir instruções de onde deve buscar e entregar o veículo |
-| Locatátio | Conseguir visualizar o valor de aluguel | Para saber se o valor está dentro do meu orçamento |
-| Locatátio | Conseguir cadastrar as informações para pagamento | Garantindo o pagamento segurança na negociação |
-| Locador | Apresentar seus dados de contato | Para conseguir combinar com o locatário o local que ele deve buscar e entregar o veículo |
-| Locador | Cadastrar meu veículo para aluguel | Conseguir um complemento na renda |
-| Locador | Indicar o valor de aluguel do veículo |  Para garantir que irei receber o valor que desejo pelo aluguel |
+| Locatário | Alugar um veículo | Para trabalhar ou exercer atividades do dia a dia |
+| Locatário | Conseguir reservar o aluguel de um veículo | Conseguir garantir a disponibilidade do veículo na data desejada |
+| Locatário | Conseguir pesquisar os veículos disponíveis | Para alugar o que melhor atenda as minhas necessidades |
+| Locatário | Conseguir visualizar o perfil, contato, e informacões do locador | Para ter seguranća e convicćão, sobre o locador |
+| Locatário | Conseguir visualizar o valor da diaria do aluguel | Para saber se o valor está dentro do meu orçamento |
+| Locatário | Conseguir cadastrar as informações para pagamento | Garantir o pagamento segurança na negociação |
+| Locatário | Conseguir visualizar o veículo, e as informaćões sobre o mesmo | Para saber se atende as minhas necessidades |
+| Locador | Apresentar meu perfil, dados de contato e informaćões | Para conseguir combinar com o locatário o local que ele deve buscar e entregar o veículo |
+| Locador | Cadastrar meu veículo | para disponibilizar a sua visualizaćão para possiveis locatários |
+| Locador | Indicar o valor da diaria do veículo | Para que o locatário esteja ciente do valor |
 | Locador | Cadastrar meus dados bancários | Para recebimento do valor do aluguel |
 
 Requisitos do Projeto
@@ -70,30 +71,31 @@ Requisitos do Projeto
 
 |ID    | Descrição   | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Deve permitir ao usuário cadastrar uma conta | ALTA | 
+|RF-001| Deve permitir ao locador e locatário  cadastrar uma conta | ALTA | 
 |RF-002| Deve permitir ao usuário fazer o login da sua conta   | ALTA |
-|RF-003| Deve permitir ao proprietário cadastrar o veículo   | ALTA |
-|RF-004| Deve permitir ao proprietário cadastrar uma forma de recebimento de valores   | ALTA |
+|RF-003| Deve permitir ao locador cadastrar o veículo   | ALTA |
+|RF-004| Deve permitir ao locador cadastrar seus dados bancarios, para recebimento de valores   | ALTA |
 |RF-005| Deve permitir ao locador cadastrar uma forma de pagamento   | ALTA |
-|RF-006| Deve permitir ao locador visualizar os veículos disponíveis   | ALTA |
-|RF-007| Deve permitir ao locador reservar o veículo disponível   | MÉDIA |
+|RF-006| Deve permitir ao locatario visualizar os veículos disponíveis   | ALTA |
+|RF-007| Deve permitir ao locatário reservar o veículo disponível   | MÉDIA |
 |RF-008| Deve permitir aos negociantes se comunicarem   | MÉDIA |
-|RF-009| Deve permitir ao locador visualizar as informações do veículo   | MÉDIA |
-|RF-010| Deve permitir ao locador visualizar o valor do aluguel do veículo   | ALTA |
-|RF-011| Deve permitir ao proprietário indicar o valor desejado pelo aluguel do veículo   | ALTA |
-|RF-012| Deve permitir ao locador filtrar o modelo do veículo desejado   | BAIXA |
-|RF-013| Deve permitir ao proprietário incluir fotos do veículo   | ALTA |
-
+|RF-009| Deve permitir ao locatário visualizar as informações do veículo   | MÉDIA |
+|RF-010| Deve permitir ao locatário visualizar o valor da diaria do aluguel do veículo   | ALTA |
+|RF-011| Deve permitir ao locador indicar o valor desejado pela diaria do veículo   | ALTA |
+|RF-012| Deve permitir ao locatario filtrar o modelo do veículo desejado   | MÉDIA |
+|RF-013| Deve permitir ao locador incluir fotos do veículo   | ALTA |
+|RF-014| Deve permitir ao locador cadastrar dados para contato | MÉDIA | 
+|RF-015| Deve filtrar por região onde se encontra os locadores e locatários| BAIXA |
 **Prioridade: Alta / Média / Baixa. 
 
 ### Requisitos não funcionais
 
 |ID    | Descrição   | Prioridade |
 |------|-----------------------------------------|----|
-|RNF-001| O tempo de resposta do sistema não deve passar de 30 segundos | ALTA | 
-|RNF-002| Deve permitir ao usuário visualizar em um mapa os veículos disponíveis na região   | MÉDIA |
-|RNF-003| Deve ser compatível e responsivo em navegadores Google Chrome e Microsoft Edge na versão desktop   | ALTA |
-|RNF-004| Deve ser compatível e responsivo em navegadores Google Chrome na versão mobile   | ALTA |
-|RNF-005| A plataforma deve estar disponível durante todos os dias da semana 24h por dia   | ALTA |
+|RNF-001| Todas as aćões do sistema devem ter tempo de resposta menos ou igual a 30 segundos  | ALTA | 
+|RNF-002| A aplicação deve ser publicada em um ambiente acessível público na Internet. | ALTA |
+|RNF-003| Deve ser compatível a  navegadores Google Chrome e Microsoft Edge na versão desktop   | ALTA |
+|RNF-004| Deve ser compatível a todos os sistemas operacionais   | ALTA |
+|RNF-005| A aplicaćão deve ser de fácil manuseio dos usuários    | ALTA |
 
 **Prioridade: Alta / Média / Baixa. 
