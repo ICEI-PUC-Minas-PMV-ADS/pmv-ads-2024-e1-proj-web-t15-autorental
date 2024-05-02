@@ -44,14 +44,17 @@ Figura 2 - Categorias de Etiquetas Utilizadas.
 
 As ferramentas empregadas no projeto são:
 
-- Editor de código escolhido é o GitHub
-- Ferramentas de comunicação
-- Ferramentas de desenho de tela é o Canva
+- Editor de código.
+- Ferramentas de comunicação.
+- Ferramentas de desenho de tela.
 
 O editor de código foi escolhido porque ele possui uma integração com o sistema de versão. As ferramentas de comunicação utilizadas possuem integração semelhante e por isso foram selecionadas. Por fim, para criar diagramas utilizamos essa ferramenta por melhor captar as necessidades da nossa solução.
 
 Liste quais ferramentas foram empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
 
-![Screenshot 2024-04-14 17 38 33](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t15-autorental/assets/166565909/36f5e128-d51b-4e7d-977d-b6e849c0fd95)
+| AMBIENTE | PLATAFORMA | LINK DE ACESSO |
+| Repositório de código | GitHub | 
+| Documentos de projeto | GitHub | 
+| Gerenciamento de projeto | GitHub |
 
 
