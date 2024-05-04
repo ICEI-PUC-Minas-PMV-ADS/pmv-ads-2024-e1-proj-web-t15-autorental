@@ -52,8 +52,11 @@ O editor de código foi escolhido porque ele possui uma integração com o siste
 
 Liste quais ferramentas foram empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
 
-|         AMBIENTE         | PLATAFORMA | LINK DE ACESSO |
-
-
+| AMBIENTE | PLATAFORMA |LINK DE ACESSO                 |
+|--------------------|--------------------------------------------------------------------------------|----------------------------------------|
+|Repositório de código fonte | GitHub | 123 |
+|Documentos do projeto  | GitHub | 123  |
+|Projeto de interface e wireframes | MarvelApp | 123 |
+|Gerenciamento do projeto  | GitHub | 123 |
 
 
