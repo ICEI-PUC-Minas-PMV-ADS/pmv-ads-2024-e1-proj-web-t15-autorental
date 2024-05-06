@@ -12,17 +12,53 @@ O fluxograma apresentado na figura 1 mostra o fluxo de interação do usuário p
 
 
 
-## Wireframes
 
-![Exemplo de Wireframe](img/wireframe.png)
 
-São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
- 
-> **Links Úteis**:
-> - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [Axure](https://www.axure.com/edu) (Licença Educacional)
-> - [InvisionApp](https://www.invisionapp.com/) (Licença Educacional)
+## Protótipo de baixa fidelidade
+
+As telas do sistema apresentam uma estrutura comum que é apresentada na figura 2. Nesta estrutura existem 3 grandes blocos, descritos a seguir. São eles:
+<ul>
+  <li>Cabeçalho - local onde estão dispostos o nome da aplicação web e navegação principal do site (menu da aplicação);</li>
+  <li>Conteúdo - apresenta o conteúdo da tela em questão;</li>
+  <li>Rodapé - apresenta informações sobre os direitos autorais.</li>
+</ul>
+<figure> 
+  <img src="https://user-images.githubusercontent.com/100447878/164074128-7b006e50-8621-4964-b0fd-07a90e626673.png"
+    <figcaption>  Estrutura padrão do site
+</figure> 
+
+Tela- Login
+
+A tela login, nos dar općão para realizar cadastro ou adentrar em sua conta se o cadastro ja for existente. Temos também a općão de esqueci minha senha, para caso tal fato ocorra o usuário terá a općão de recuperar a sua senha.
+
+<img src="blob:chrome-untrusted://media-app/8c11468e-377b-44a6-bb5f-b12ed5675972" alt="1.jpg"/>![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t15-autorental/assets/166565909/ac2496db-5959-4fa5-83ef-0831c2826323)
+
+Tela- Cadastro de usuário
+
+Essa tela apresenta campos que  deverão ser preenchidos corretamente para validar e realizar o cadastro dos usuário.
+
+<img src="blob:chrome-untrusted://media-app/b9eb947e-11c6-4af0-94cb-bcfe640939a8" alt="2.jpg"/>![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t15-autorental/assets/166565909/9233cef7-67fc-4674-8f4c-f232efc126bd)
+
+
+
+
+Tela - Home page
+
+A tela Homepage, apresenta locais onde podemos realizar pesquisas, informar seu CEP para que o site busque por veículos perto da sua localidade e um menu de acesso, onde usuários poderam acessar mais informaćões.
+
+<img src="blob:chrome-untrusted://media-app/78b74bcf-1192-4261-87e5-9240be98cdae" alt="5.jpg"/>![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t15-autorental/assets/166565909/4e153e84-086d-4528-98a1-ab7b461571d3)
+
+
+Tela-Menu de acesso
+
+Nessa tela, o usuário poderá acessar sua proprias informaćões, divulgar seus veículos para o publíco, consultar seus anúncios, entrar em contato com a central e sair da sua conta. 
+
+<<img src="blob:chrome-untrusted://media-app/0e44d85e-5bd3-4308-900f-69561f737c8d" alt="Screenshot 2024-05-06 13.46.55.png"/>![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t15-autorental/assets/166565909/46a6252a-025f-4cb2-9246-3d10cc8a8c88)
+
+
+Tela- Cadastro de veículos
+
+Na tela cadastro de veículos, anúnciantes irão dar informaćõs do veículo a ser anunciado, adicionarão fotos e descrićões de cada veículo anunciado.
+
+<img src="blob:chrome-untrusted://media-app/20efb55b-d942-43fe-aa54-7b8fc3e1b70e" alt="7.jpg"/>![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t15-autorental/assets/166565909/0307906b-d07d-4d29-8410-879905650139)
+
