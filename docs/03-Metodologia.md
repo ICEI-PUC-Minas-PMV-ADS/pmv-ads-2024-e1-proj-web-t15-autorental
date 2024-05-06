@@ -55,8 +55,8 @@ Liste quais ferramentas foram empregadas no desenvolvimento do projeto, justific
 | AMBIENTE | PLATAFORMA |LINK DE ACESSO                 |
 |--------------------|--------------------------------------------------------------------------------|----------------------------------------|
 |Repositório de código fonte | GitHub | 123 |
-|Documentos do projeto  | GitHub | [123 ](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t15-autorental/blob/main/docs/03-Metodologia.md#:~:text=t-,docs,-presentation) |
-|Projeto de interface e wireframes | MarvelApp | 123 |
+|Documentos do projeto  | GitHub |https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t15-autorental/blob/main/docs/03-Metodologia.md#:~:text=t-,docs,-presentation) |
+|Projeto de interface e wireframes | Canva |(https://www.canva.com/design/DAGERbxlG88/i2Wv8nea2UZylepgf3BJ8Q/edit?utm_content=DAGERbxlG88&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) |
 |Gerenciamento do projeto  | GitHub | 123 |
 
 
