@@ -5,7 +5,10 @@
 
 
 User Flow
-O fluxograma apresentado na figura 1 mostra o fluxo de interação do usuário pelas telas do sistema. Cada uma das telas deste fluxo é detalhada na seção de Protótipo de baixa fidelidade que se segue. 
+
+O fluxograma apresentado na figura 1 mostra o fluxo de interação do usuário pelas telas do sistema. Cada uma das telas deste fluxo é detalhada na seção de Protótipo de baixa fidelidade que se segue. Para visualizar o protótipo interativo, acesse o https://www.canva.com/design/DAGERbxlG88/i2Wv8nea2UZylepgf3BJ8Q/edit?utm_content=DAGERbxlG88&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+<img src="blob:chrome-untrusted://media-app/e5452098-408b-4665-9706-12a8b2d32794" alt="Screenshot 2024-05-06 13.15.40.png"/>![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t15-autorental/assets/166565909/1209a47b-c1cf-49a1-8df5-9702626f7f7b)
 
 
 
