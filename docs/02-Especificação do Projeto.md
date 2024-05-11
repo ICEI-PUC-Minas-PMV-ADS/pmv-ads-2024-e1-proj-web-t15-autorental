@@ -87,7 +87,8 @@ Requisitos do Projeto
 |RF-011| Deve permitir ao locador indicar o valor desejado pela diaria do veículo | ALTA | 
 |RF-012| Deve permitir ao locador incluir fotos do veículo | ALTA | 
 |RF-013| Deve filtrar por região onde se encontram os locadore | BAIXA |
-**Prioridade: Alta / Média / Baixa. 
+
+ **Prioridade: Alta / Média / Baixa. 
 
 ### Requisitos não funcionais
 
