@@ -97,6 +97,6 @@ Requisitos do Projeto
 |RNF-002| A aplicação deve ser publicada em um ambiente acessível público na Internet. | ALTA |
 |RNF-003| Deve ser compatível a  navegadores Google Chrome e Microsoft Edge na versão desktop   | ALTA |
 |RNF-004| Deve ser compatível com os sistemas operacionais Android  | ALTA |
-|RNF-005| ----- | ALTA |
+|RNF-005| A aplicação deve estar disponivel 24 horas por dia em todos os dias da semana | ALTA |
 
 **Prioridade: Alta / Média / Baixa. 
