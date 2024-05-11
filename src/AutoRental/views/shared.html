@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SlideBar</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+    <link rel="stylesheet" href="../css/menuLateral.css">
+</head>
+<body>
+    
+    
+</body>
+</html>
+<script type="text/javascript" src="../js/menuLateral.js" defer>
+    var menuItem = document.querySelectorAll('.item-menu');
+    var btnExpandir = document.querySelector('#btnExpandir');
+    var menuLateral = document.querySelector('.menu-lateral');
+
+    menuItem.forEach((item) =>{
+        item.addEventListener('click', selectLink);
+    })
+
+    btnExpandir.addEventListener('click', function(){
+        menuLateral.classList.toggle('expandir');
+    });
+
+    function selectLink(){
+        menuItem.forEach((item) =>{
+            item.classList.remove('ativo');
+        });
+
+        this.classList.add('ativo');
+    }
+</script>
