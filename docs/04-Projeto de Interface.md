@@ -31,15 +31,14 @@ Tela- Login
 
 A tela login, nos dar općão para realizar cadastro ou adentrar em sua conta se o cadastro ja for existente. Temos também a općão de esqueci minha senha, para caso tal fato ocorra o usuário terá a općão de recuperar a sua senha.
 
-<img src="blob:chrome-untrusted://media-app/8c11468e-377b-44a6-bb5f-b12ed5675972" alt="1.jpg"/>![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t15-autorental/assets/166565909/ac2496db-5959-4fa5-83ef-0831c2826323)
+![Cópia de SOU CLIENTE](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t15-autorental/assets/164096060/620931e8-958f-448e-b4ad-5f2807b8ff80)
+
 
 Tela- Cadastro de usuário
 
 Essa tela apresenta campos que  deverão ser preenchidos corretamente para validar e realizar o cadastro dos usuário.
 
-<img src="blob:chrome-untrusted://media-app/b9eb947e-11c6-4af0-94cb-bcfe640939a8" alt="2.jpg"/>![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t15-autorental/assets/166565909/9233cef7-67fc-4674-8f4c-f232efc126bd)
-
-
+![Cópia de SOU CLIENTE (1)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t15-autorental/assets/164096060/bb0f5f11-fb4b-458f-be8b-42ea3b903d4b)
 
 
 Tela - Home page
