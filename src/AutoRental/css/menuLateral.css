@@ -1,8 +1,29 @@
+body {
+    font-family: 'Inter', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url("../img/imgCarro.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+}
+
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     font-family: 'Outfit', sans-serif;
+}
+
+.divLogo{
+    position: fixed;
+    margin-left: 78%;
+}
+
+.logo{
+    width: 100%;
 }
 
 body{
@@ -12,9 +33,9 @@ body{
 nav.menu-lateral{
     width: 80px;
     height: 100%;
-    background-color: #480ca8;
+    /* background-color: #480ca8; */
     padding: 40px 0 40px 1%;
-    box-shadow: 3px 0 0 #FF0077;
+    box-shadow: 3px 0 0 #e24343;
     position: fixed;
     top: 0;
     left: 0;
@@ -47,11 +68,11 @@ ul li.item-menu{
 }
 
 ul li.ativo{
-    background-color: #FF0077;
+    background-color: #e24343;
 }
 
 ul li.item-menu:hover{
-    background: #FF0077;
+    background: #e24343;
 }
 
 ul li.item-menu a{
