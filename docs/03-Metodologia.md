@@ -18,7 +18,7 @@ A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para def
 
 Utilizando o GitHub, fizemos a divisão e organização das tarefas. Estruturadas seguindo o metodo organizacional utilizado pelo grupp foi o Kanban, que pode ser acessado clicando [aqui](https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/1047/views/1) .
 
-![Backlog Kanban](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t15-autorental/assets/164096060/4e8a1136-7c4a-472a-89af-1738b6b786dd)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t15-autorental/assets/164096060/7099beac-25d4-4108-b810-022925dc9795)
 
 Figura 1 - Quadro Kanbam gerenciado pelo grupo.
 
