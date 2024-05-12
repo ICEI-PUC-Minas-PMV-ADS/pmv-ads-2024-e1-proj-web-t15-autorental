@@ -9,9 +9,9 @@
 
 A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento. A equipe está organizada da seguinte maneira:
 - Scrum Master: Marcus Eliezer Cardoso;
-- Product Owner: Milvio Henrique Mendes;
+- Product Owner: Ronaldy Caetano;
 - Equipe de Desenvolvimento: Marcus Eliezer Cardoso, Ronaldy Caetano, Breno Marques;
-- Equipe de Design: Milvio Henrique Mendes.
+- Equipe de Design: Marcus Eliezer Cardoso, Ronaldy Caetano, Breno Marques.
 
 
 ### Processo
