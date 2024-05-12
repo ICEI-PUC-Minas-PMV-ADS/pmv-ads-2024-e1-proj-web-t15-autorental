@@ -9,10 +9,8 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 <h2>Integrantes</h2>
 <ul>
-  <li>Arthur Vitor</li>
   <li>Breno Marques</li>
   <li>Marcus Eliezer Cardoso</li>
-  <li>Milvio Henrique Mendes</li>
   <li>Ronaldy Caetano</li>
 </ul>
 
