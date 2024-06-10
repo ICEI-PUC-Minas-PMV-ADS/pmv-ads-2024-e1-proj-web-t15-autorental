@@ -1,12 +1,14 @@
 # Registro de Testes de Software
 
-<span style="color:red">Pré-requisitos: <a href="3-Projeto de Interface.md"> Projeto de Interface</a></span>, <a href="8-Plano de Testes de Software.md"> Plano de Testes de Software</a>
+CT-01: Verificar o cadastro de usuários.
 
-Relatório com as evidências dos testes de software realizados no sistema pela equipe, baseado em um plano de testes pré-definido.
+Responsável: Marcus Cardoso 
 
-## Avaliação
+Usuário preenche os campos "Email” ou “Senha" com os dados cadastrados
 
-Discorra sobre os resultados do teste. Ressaltando pontos fortes e fracos identificados na solução. Comente como o grupo pretende atacar esses pontos nas próximas iterações. Apresente as falhas detectadas e as melhorias geradas a partir dos resultados obtidos nos testes.
+![4](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t15-autorental/assets/164096060/c17a5c24-5466-407f-bbfe-49bf5b418c58)
 
-> **Links Úteis**:
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
+Se as informações de usuário forem válidas, o login será bem sucedido.
+
+![5](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t15-autorental/assets/164096060/03a9afe3-9d5c-4bde-a8d8-9efac2f40844)
+
