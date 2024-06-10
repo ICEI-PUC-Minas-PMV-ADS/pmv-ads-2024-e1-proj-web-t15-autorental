@@ -1,8 +1,6 @@
 # Programação de Funcionalidades
 
-
-
-#  Tela de login e cadastro (RF-01)
+#  Tela de cadastro (RF-01)
 
 Responsável: Breno Marques
 
@@ -37,4 +35,43 @@ Estrutura de Dados
 1. Abra um navegador de Internet e informe a seguinte URL: 
 2. Ao clicar em "Sou Cliente/Sou Proprietário/Cadastrar", terá acesso a página de Login ou cadastro.
 3. Crie um email e uma senha, selecione o tipo de usuario, insira-os e em seguida clique em "Entrar".
+4. Após o entrar, terá acesso à tela inicial da plataforma
+
+
+#  Tela de login (RF-02)
+
+Responsável: Breno Marques
+
+O acesso a tela de login e cadastro poderá ser feito ao clicar na opção  “Sou Cliente/Sou Proprietário”. As estruturas de dados foram baseadas em HTML, CSS e JS.
+
+Exemplo da tela de cadastro:
+
+Requisitos atendidos
+RF-002: Deve permitir ao usuário fazer o login da sua conta	
+
+![4](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t15-autorental/assets/164096060/9d283430-1faa-416a-9fa0-0c9370472977)
+
+
+## Requisitos atendidos
+RF-002: Deve permitir ao usuário fazer o login da sua conta	
+
+Artefatos da funcionalidade cadastro/login
+
+●index.html
+
+●index.css
+
+●script.js 
+
+Estrutura de Dados
+
+●(login.html)
+
+●(login.css)
+
+#### Instruções de acesso
+
+1. Abra um navegador de Internet e informe a seguinte URL: 
+2. Ao clicar em "Sou Cliente/Sou Proprietário, terá acesso a página de Login
+3. Inserir o email e senha cadastrados,  em seguida clique em "Acessar".
 4. Após o entrar, terá acesso à tela inicial da plataforma
