@@ -8,7 +8,18 @@ Usuário preenche os campos "Email” ou “Senha" com os dados cadastrados
 
 ![4](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t15-autorental/assets/164096060/c17a5c24-5466-407f-bbfe-49bf5b418c58)
 
-Se as informações de usuário forem válidas, o login será bem sucedido.
+Se as informações de usuário forem válidas, o cadastro será bem sucedido.
 
 ![5](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t15-autorental/assets/164096060/03a9afe3-9d5c-4bde-a8d8-9efac2f40844)
 
+CT-02: Deve permitir ao usuário fazer o login da sua conta
+
+Responsável: Marcus Cardoso 
+
+Usuário preenche os campos "Email”, “Senha" e "Tipo de usuario"
+
+![Uploading 2.PNG…]()
+
+Se as informações de usuário forem válidas, o login será bem sucedido.
+
+![Uploading 3.PNG…]()
