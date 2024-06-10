@@ -18,8 +18,8 @@ Responsável: Marcus Cardoso
 
 Usuário preenche os campos "Email”, “Senha" e "Tipo de usuario"
 
-![Uploading 2.PNG…]()
+![2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t15-autorental/assets/164096060/c23dda12-4c8d-4c3c-a5e5-cd3adb6d8111)
 
 Se as informações de usuário forem válidas, o login será bem sucedido.
 
-![Uploading 3.PNG…]()
+![3](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t15-autorental/assets/164096060/f9f30cd0-7a2e-4e4f-ba07-1ca4d563cfa5)
