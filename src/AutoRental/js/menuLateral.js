@@ -27,7 +27,7 @@ logoutLink.addEventListener('click', function(){
         allowOutsideClick: false
     }).then((result) => {
         if (result.isConfirmed) {
-            location.href='../views/inicio.html';
+            location.href='../login/inicio.html';
         }
     });
 });

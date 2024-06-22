@@ -3,47 +3,90 @@ script.type = "text/javascript";
 script.src = "https://cdn.jsdelivr.net/npm/sweetalert2@11";
 document.body.appendChild(script);
 
-var loginButton = document.getElementById("btnLogar");
+var loginButtonLocador = document.getElementById("btnLogarLocador");
+var loginButtonLocatario = document.getElementById("btnLogarLocatario");
 var emailInput = document.querySelector("#email");
 var senhaInput = document.querySelector("#senha");
 
-loginButton.addEventListener("click", function(event){
-    //Primeiro, validação do campo email
-
-    var loginValidado = validaLogin(emailInput.value);
-    var senhaValidada = validaSenha(senhaInput.value);
-
-    if (loginValidado && senhaValidada){
+if (loginButtonLocador != null){
+    loginButtonLocador.addEventListener("click", function(event){
+        //Primeiro, validação do campo email
+    
+        var loginValidado = validaLogin(emailInput.value);
+        var senhaValidada = validaSenha(senhaInput.value);
+    
+        if (loginValidado && senhaValidada){
+            Swal.fire({
+                text: "Sucesso!",
+                icon: "success",
+                title: "Login efetuado com sucesso."
+            }).then((result) => {
+                location.href='../locador/homeLocador.html';
+            });
+    
+            return;
+        }
+        else if (loginValidado && !senhaValidada){
+            Swal.fire({
+                text: "senha inválida!",
+                icon: "warning",
+                title: "Digite uma senha válida."
+            }).then((result) => {
+                senha.value = "";
+            });
+    
+            return;
+        }
+    
         Swal.fire({
-            text: "Sucesso!",
-            icon: "success",
-            title: "Login efetuado com sucesso."
-        }).then((result) => {
-            location.href='../views/home.html';
-        });
-
-        return;
-    }
-    else if (loginValidado && !senhaValidada){
-        Swal.fire({
-            text: "senha inválida!",
+            text: "Email inválido!",
             icon: "warning",
-            title: "Digite uma senha válida."
+            title: "Digite um email válido."
         }).then((result) => {
-            senha.value = "";
+            emailInput.value = "";
         });
-
-        return;
-    }
-
-    Swal.fire({
-        text: "Email inválido!",
-        icon: "warning",
-        title: "Digite um email válido."
-    }).then((result) => {
-        emailInput.value = "";
     });
-});
+}
+
+if (loginButtonLocatario != null){
+    loginButtonLocatario.addEventListener("click", function(event){
+        //Primeiro, validação do campo email
+    
+        var loginValidado = validaLogin(emailInput.value);
+        var senhaValidada = validaSenha(senhaInput.value);
+    
+        if (loginValidado && senhaValidada){
+            Swal.fire({
+                text: "Sucesso!",
+                icon: "success",
+                title: "Login efetuado com sucesso."
+            }).then((result) => {
+                location.href='../locatario/homeLocatario.html';
+            });
+    
+            return;
+        }
+        else if (loginValidado && !senhaValidada){
+            Swal.fire({
+                text: "senha inválida!",
+                icon: "warning",
+                title: "Digite uma senha válida."
+            }).then((result) => {
+                senha.value = "";
+            });
+    
+            return;
+        }
+    
+        Swal.fire({
+            text: "Email inválido!",
+            icon: "warning",
+            title: "Digite um email válido."
+        }).then((result) => {
+            emailInput.value = "";
+        });
+    });
+}
 
 function validaLogin(email){
     if (email == "")
