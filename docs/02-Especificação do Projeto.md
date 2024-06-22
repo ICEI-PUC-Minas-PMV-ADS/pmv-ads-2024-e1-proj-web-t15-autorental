@@ -84,9 +84,6 @@ Requisitos do Projeto
 |RF-008| Deve permitir aos negociantes se comunicarem | MÉDIA | 
 |RF-009| Deve permitir ao locatário visualizar as informações do veículo | MÉDIA | 
 |RF-010| Deve permitir ao locatário visualizar o valor da diaria do aluguel do veículo | ALTA | 
-|RF-011| Deve permitir ao locador indicar o valor desejado pela diaria do veículo | ALTA | 
-|RF-012| Deve permitir ao locador incluir fotos do veículo | ALTA | 
-|RF-013| Deve filtrar por região onde se encontram os locadore | BAIXA |
 
  **Prioridade: Alta / Média / Baixa. 
 
