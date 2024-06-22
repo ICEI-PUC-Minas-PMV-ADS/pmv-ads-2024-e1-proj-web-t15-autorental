@@ -143,3 +143,56 @@ ul li.item-menu a .icon > i{
     display: flex;
     justify-content: center;
 }
+
+table{
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+th,
+td {
+    padding: 10px 15px;    
+}
+
+thead {
+    background: #395870;
+    color: #fff;
+}
+
+tbody{
+    background-color: black;
+    color: #fff;
+}
+
+td{
+    border-bottom: 1px solid #395870;
+    border-right: 1px solid #395870;
+}
+
+td:first-child {
+    border-left: 1px solid #395870;
+}
+
+.btn-success {
+    color: #fff;
+    background-color: #20ad00;
+    border-color: #20ad00;
+}
+
+.btn {
+    font-size: 19px;
+    padding-right: 19px;
+    padding-left: 19px;
+    border: 1px solid #cccccc;
+    border-radius: 5px;
+    background-color: #04AA6D!important;
+}
+
+.button {
+    font-size: 1.5em;
+    margin: 5px;
+    Background-color: royalblue;
+    color: white;
+    border: 1px solid royalblue;
+    border-radius:5px;
+  }
