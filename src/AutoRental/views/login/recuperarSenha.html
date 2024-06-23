@@ -20,7 +20,7 @@
             <input type="password" id="senha" placeholder="Digite sua senha" />
             <label for="password">Repita sua Senha</label>
             <input type="password" id="senhaRepetida" placeholder="Digite sua senha" />
-            <input type="button" id="btnLogar" class="btn" value="Cadastrar"></input>
+            <input type="button" id="btnLogar" class="btn" value="Recuperar"></input>
             <input type="button" onclick="location.href='Inicio.html'" class="btnDefault" value="Voltar"></input>
         </form>
     </div>
@@ -47,7 +47,7 @@
         Swal.fire({
             text: "Sucesso!",
             icon: "success",
-            title: "Cadastro efetuado com sucesso."
+            title: "Senha recuperada com sucesso, você recebera um email para redefinir sua senha."
         }).then((result) => {
             location.href='inicio.html';
         });
