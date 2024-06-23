@@ -27,12 +27,6 @@
                 </a>
             </li>
             <li class="item-menu">
-                <a href="configuracoesLocador.html">
-                    <span class="icon"><i class="bi bi-wrench"></i></span>
-                    <span class="txt-link">Configurações</span>
-                </a>
-            </li>
-            <li class="item-menu">
                 <a href="perfilLocador.html">
                     <span class="icon"><i class="bi bi-person-circle"></i></span>
                     <span class="txt-link">Perfil</span>
@@ -260,12 +254,12 @@
                   title: "Sucesso!",
                   text: "Salvo com sucesso",
                   icon: "success"
+                }).then((result) => {
+                    location.href= 'visualizarVeiculoLocador.html';
                 });
-
-                location.href= 'visualizarVeiculoLocador.html';
             }
         });
-    })
+    });
 
 
     function validaInput(input){
