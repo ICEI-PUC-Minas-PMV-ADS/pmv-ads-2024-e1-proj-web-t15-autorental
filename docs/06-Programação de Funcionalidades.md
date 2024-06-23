@@ -147,7 +147,7 @@ Estrutura de Dados
 1. Abra um navegador de Internet e informe a seguinte URL: 
 2. -
 
-#  Tela de veículo disponiveis (RF-05/6)
+#  Tela de veículo disponiveis (RF-05/06)
 
 Responsável: Breno Marques
 
@@ -182,7 +182,7 @@ Estrutura de Dados
 1. Abra um navegador de Internet e informe a seguinte URL: 
 2. -
 
-#  Tela de cadastro de dados bancarios (RF-07/8)
+#  Tela de cadastro de dados bancarios (RF-07/08)
 
 Responsável: Breno Marques
 
