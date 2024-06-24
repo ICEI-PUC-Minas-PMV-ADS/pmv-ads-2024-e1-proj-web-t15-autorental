@@ -9,7 +9,7 @@
 | Responsável |Nome: Marcus Cardoso  |
 
 
-|Caso de Teste    | CT-02 - Deve permitir ao usuário fazer o login da sua conta |
+|Caso de Teste    | CT-02 - Verificar se o usuário consegue fazer o login da sua conta |
 |:---|:---|
 | Requisitos Associados | RF-02	- Deve permitir ao usuário fazer o login da sua conta|
 | Objetivo do Teste | Verificar se o usuário consegue fazer o login |
@@ -17,7 +17,7 @@
 | Critérios de êxito | O usuario é redirecionado para a Home |
 | Responsável |Nome: Marcus Cardoso   |
 
-|Caso de Teste    | CT-03 - Deve permitir ao usuário recuperar sua senha |
+|Caso de Teste    | CT-03 - Verificar se o usuário consegue recuperar sua senha |
 |:---|:---|
 | Requisitos Associados | RF-03 - Deve permitir ao usuário recuperar sua senha	|
 | Objetivo do Teste | Verificar se o usuário consegue recuperar sua senha esquecida |
@@ -25,7 +25,7 @@
 | Critérios de êxito | O usuario é redirecionado para a Home |
 | Responsável |Nome: Marcus Cardoso   |
 
-|Caso de Teste    | CT-04 - Deve permitir ao locador cadastrar o veículo |
+|Caso de Teste    | CT-04 - Verificar se o usuário consegue cadastrar o veículo |
 |:---|:---|
 | Requisitos Associados | RF-04 - Deve permitir ao locador cadastrar o veículo |
 | Objetivo do Teste | Verificar se o usuário consegue cadastrar um veículo |
@@ -33,7 +33,7 @@
 | Critérios de êxito | O usuario é redirecionado para a Home |
 | Responsável |Nome: Marcus Cardoso   |
 
-|Caso de Teste    | CT-05/06 - Deve permitir ao locatário visualizar os veículos/Deve permitir ao locatário realizar a locação do veículo |
+|Caso de Teste    | CT-05/06 - Verificar se o usuário consegue visualizar os veículos e realizar a locação do veículo |
 |:---|:---|
 | Requisitos Associados | RF-05/06 - Deve permitir ao locatário visualizar os veículos/Deve permitir ao locatário realizar a locação do veículo | |
 | Objetivo do Teste | Verificar se o usuário consegue visualizar os veículos disponiveis e realizar a locação |
@@ -41,7 +41,7 @@
 | Critérios de êxito | O usuario é redirecionado para a Home |
 | Responsável |Nome: Marcus Cardoso   |
 
-|Caso de Teste    | CT-07/08 - Deve permitir ao locatário cadastrar seus dados bancarios, para recebimento de valores/Deve permitir ao locador cadastrar uma forma de pagamento |
+|Caso de Teste    | CT-07/08 - Verificar se o usuário consegue cadastrar seus dados bancarios, para recebimento de valores |
 |:---|:---|
 | Requisitos Associados | RF-07/08 - Deve permitir ao locatário cadastrar seus dados bancarios, para recebimento de valores/Deve permitir ao locador cadastrar uma forma de pagamento | |
 | Objetivo do Teste | Verificar se o usuário consegue cadastrar as formas de pagamento/recebimento |
