@@ -147,8 +147,10 @@ Estrutura de Dados
 #### Instruções de acesso
 
 1. Abra um navegador de Internet e informe a seguinte URL: 
-2. -
-
+2. Ao clicar em "Sou Cliente/Sou Proprietário/Cadastrar", terá acesso a página de Login.
+3. Ao clicar na barra de navegação lateral no simbolo do veículo , terá acesso tela veículos é devera acessar o campo "Adicionar veúculo".
+4. Digite as informações referentes ao veículo e em seguida clickar em "Cadastrar".
+5. Após isso ira receber uma mensagem indicando que o veículo foi cadastrado
 #  Tela de veículo disponiveis (RF-05/06)
 
 Responsável: Breno Marques
