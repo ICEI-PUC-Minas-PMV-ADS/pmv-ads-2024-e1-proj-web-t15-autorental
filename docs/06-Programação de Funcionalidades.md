@@ -122,6 +122,8 @@ O acesso a tela de login e cadastro poderá ser feito ao clicar na opção  “S
 
 Exemplo da tela de cadastro de veículo:
 
+![12](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t15-autorental/assets/164096060/a0cd7106-2d78-4af0-8f18-5bfb29671021)
+
 Requisitos atendidos
 RF-004: Deve permitir ao locador cadastrar o veículo
 
@@ -154,6 +156,8 @@ Responsável: Breno Marques
 O acesso a tela de login e cadastro poderá ser feito ao clicar na opção  “Sou Cliente/Sou Proprietário”. As estruturas de dados foram baseadas em HTML, CSS e JS.
 
 Exemplo da tela de veículo disponiveis:
+
+![9](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t15-autorental/assets/164096060/ae7b0ce1-b837-4715-b9b7-dad25f825f1c)
 
 Requisitos atendidos
 RF-005: Deve permitir ao locatário visualizar os veículos
@@ -189,6 +193,8 @@ Responsável: Breno Marques
 O acesso a tela de login e cadastro poderá ser feito ao clicar na opção  “Sou Cliente/Sou Proprietário”. As estruturas de dados foram baseadas em HTML, CSS e JS.
 
 Exemplo da tela de veículo disponiveis:
+
+![13](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t15-autorental/assets/164096060/70f248ab-cbef-4156-88a8-1cb4d3018650)
 
 Requisitos atendidos
 RF-007: Deve permitir ao locatário cadastrar seus dados bancarios, para recebimento de valores
