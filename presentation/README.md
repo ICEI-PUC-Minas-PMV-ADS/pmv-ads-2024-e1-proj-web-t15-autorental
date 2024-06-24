@@ -2,7 +2,8 @@
 
 ## Apresentação de Slides:
 
-[Apresentacao.3.pdf](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t15-autorental/files/14971882/Apresentacao.3.pdf)
+[Apresentacao.3 (2).pdf.pdf](https://github.com/user-attachments/files/15949186/Apresentacao.3.2.pdf.pdf)
+
 
 ## Video de apresentação do projeto:
 
