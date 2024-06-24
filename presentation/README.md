@@ -6,5 +6,9 @@
 
 ## Video de apresentação do projeto:
 
-https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t15-autorental/assets/79334003/ca26b994-fa58-4c45-a5b9-629709dfe5dc
+
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t15-autorental/assets/164096060/950ff35e-3d84-4426-8f61-2bad7d2c0437
+
+
+
 
