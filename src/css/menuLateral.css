@@ -1,0 +1,286 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+ 
+body {
+    font-family: 'Inter', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url("../img/imgCarro.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Outfit', sans-serif;
+}
+
+.divLogo{
+    position: fixed;
+    margin-left: 78%;
+}
+
+.logo{
+    width: 100%;
+}
+
+body{
+    height: 100vh;
+}
+
+nav.menu-lateral{
+    width: 80px;
+    height: 100%;
+    /* background-color: #480ca8; */
+    padding: 40px 0 40px 1%;
+    box-shadow: 3px 0 0 #e24343;
+    position: fixed;
+    top: 0;
+    left: 0;
+    overflow: hidden;
+    transition: .2s;
+}
+
+nav.menu-lateral.expandir{
+    width: 300px;
+}
+
+.btn-expandir{
+    width: 100%;
+    padding-left: 10px;
+}
+
+.btn-expandir > i{
+    color: #fff;
+    font-size: 24px;
+    cursor: pointer;
+}
+
+ul{
+    height: 100%;
+    list-style-type: none;
+}
+
+ul li.item-menu{
+    transition: .2s;
+}
+
+ul li.ativo{
+    background-color: #e24343;
+}
+
+ul li.item-menu:hover{
+    background: #e24343;
+}
+
+ul li.item-menu a{
+    color: #fff;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 20px 4%;
+    display: flex;
+    margin-bottom: 20px;
+    line-height: 40px;
+}
+
+ul li.item-menu a .txt-link{
+    margin-left: 70px;
+    transition: .5s;
+}
+
+nav.menu-lateral.expandir .txt-link{
+    margin-left: 40px;
+}
+
+ul li.item-menu a .icon > i{
+    font-size: 30px;
+    margin-left: 10px;
+}
+/* fim do menuLateral */
+
+.page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    width: 100%;
+    height: 100vh;
+}
+
+section {
+    display: flex;
+    justify-content: center;
+}
+
+.col-1 {
+    width: 10%;
+}
+
+.col-2 {
+    width: 20%;
+}
+
+.col-3 {
+    width: 30%;
+}
+
+.col-4 {
+    width:40%;
+}
+
+.col-5 {
+    width: 50%;
+}
+
+.col-6 {
+    width: 60%;
+}
+
+.col-7 {
+    width: 70%;
+}
+
+.col-8 {
+    width: 80%;
+}
+
+.col-9 {
+    width: 90%;
+}
+
+.row {
+    display: flex;
+    width: 80%;
+}
+
+.formPerfil {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 7px;
+    padding: 40px;
+    box-shadow: 10px 10px 40px rgba(0, 0, 0, 0.4);
+    gap: 5px;
+}
+
+.formPerfil h1 {
+    padding: 0;
+    margin: 0;
+    font-weight: 500;
+    font-size: 2.3em;
+    color: #fff;
+}
+
+label {
+    display: flex;
+    flex-direction: column;
+    font-size: 14px;
+    color: #fff;
+    margin-bottom: 25px;
+}
+
+.formPerfil input {
+    padding: 15px;
+    font-size: 14px;
+}
+
+.formPerfil select {
+    padding: 15px;
+    font-size: 14px;
+}
+
+.formLogin {
+    display: flex;
+    flex-direction: column;
+    border-radius: 7px;
+    padding: 40px;
+    box-shadow: 10px 10px 40px rgba(0, 0, 0, 0.4);
+    gap: 5px;
+    opacity: 100%;
+}
+
+.formLogin h1 {
+    padding: 0;
+    margin: 0;
+    font-weight: 500;
+    font-size: 2.3em;
+    color: #fff;
+}
+
+.formLogin p {
+    display: inline-block;
+    font-size: 14px;
+    color: #fff;
+    margin-bottom: 25px;
+}
+
+.icon > i{
+    font-size: 30px;
+    margin-left: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+table{
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+th,
+td {
+    padding: 10px 15px;    
+}
+
+thead {
+    background: #395870;
+    color: #fff;
+}
+
+tbody{
+    background-color: black;
+    color: #fff;
+}
+
+td{
+    border-bottom: 1px solid #395870;
+    border-right: 1px solid #395870;
+}
+
+td:first-child {
+    border-left: 1px solid #395870;
+}
+
+.btn-success {
+    color: #fff;
+    background-color: #20ad00;
+    border-color: #20ad00;
+}
+
+.btn-success:hover {
+    transform: scale(1.05);
+    background-color: #20ad00;
+    color: #fff
+}
+
+.btn {
+    font-size: 19px;
+    padding-right: 19px;
+    padding-left: 19px;
+    border: 1px solid #cccccc;
+    border-radius: 5px;
+    background-color: #04AA6D!important;
+}
+
+.button {
+    font-size: 1.5em;
+    margin: 5px;
+    Background-color: royalblue;
+    color: white;
+    border: 1px solid royalblue;
+    border-radius:5px;
+  }

@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+    <link rel="stylesheet" href="../../css/menuLateral.css">
+</head>
+<body>
+    <div class="divLogo"><img class="logo" src="../../img/AutoRentalLogo.png"></div>
+    <nav class="menu-lateral">
+        <div class="btn-expandir">
+            <i class="bi bi-list" id="btnExpandir"></i>
+        </div>
+        <ul>
+            <li class="item-menu">
+                <a href="homeLocatario.html">
+                    <span class="icon"><i class="bi bi-house-door"></i></span>
+                    <span class="txt-link">Home</span>
+                </a>
+            </li>
+            <li class="item-menu">
+                <a href="visualizarVeiculoLocatario.html">
+                    <span class="icon"><i class="bi bi-car-front-fill"></i></span>
+                    <span class="txt-link">Alugar Veiculos</span>
+                </a>
+            </li>
+            <li class="item-menu ativo">
+                <a href="perfilLocatario.html">
+                    <span class="icon"><i class="bi bi-person-circle"></i></span>
+                    <span class="txt-link">Perfil</span>
+                </a>
+            </li>
+            <li class="item-menu">
+                <a href="#" id="logoutLink">
+                    <span class="icon"><i class="bi bi-arrow-bar-left"></i></span>
+                    <span class="txt-link">Sair</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+
+    <div class="page">
+        <form method="POST" class="formPerfil" style="width: 50%; height: 50%;">
+            <h1>Perfil</h1>
+            <p style="color: #fff;">Configurações do Perfil</p>
+            <br>
+
+            <div class="row">
+                <section class="col-9">
+                    <label> Nome do usuário
+                        <input type="text" id="Nome" value="Locatario Teste">
+                    </label>
+                </section>
+                <section class="col-9">
+                    <label> Email
+                        <input type="text" id="Email" value="UsuarioTeste@gmail.com">
+                    </label>
+                </section>
+            </div>
+
+            <div class="row">
+                <section class="col-9">
+                    <label> Telefone de Contato
+                        <input type="text" id="Telefone" data-mask="00000-0000" value="92234-4933">
+                    </label>
+                </section>
+                <section class="col-9">
+                    <label> CPF
+                        <input type="number" id="CPF" value="47942706079">
+                    </label>
+                </section>
+            </div>
+
+            <div class="row">
+                <section class="col-9">
+                    <label> Método de Pagamento
+                        <select id="MetodoPagamento">
+                            <option value="">Selecione</option>
+                            <option value="1">Crédito</option>
+                            <option value="2">Débito</option>
+                            <option value="3" selected>Pix</option>
+                            <option value="4">Boleto</option>
+                        </select>
+                    </label>
+                </section>
+                <section class="col-9" hidden>
+                    <label class="labelPix"> Chave Pix
+                        <input type="text" id="ChavePix" value="36724945267">
+                    </label>
+                </section>
+            </div>
+
+            <footer style="width: 100%; display: flex; justify-content: flex-end;">
+                <input type="button" id="Salvar" class="btn" value="Salvar"></input>
+                <input type="button" onclick="location.href='homeLocatario.html'" class="btnDefault" value="Voltar"></input>
+            </footer>
+        </form>
+    </div>
+</body>
+</html>
+<script type="text/javascript" src="../../js/menuLateral.js" defer></script>
+<script type="text/javascript" defer>
+    var metodoPagamentoSelect = document.getElementById("MetodoPagamento");
+    var btnSalvar = document.getElementById("Salvar");
+
+    metodoPagamentoSelect.onchange = (event) => {
+        console.log(event.target.value);
+        if (event.target.value == 1 || event.target.value == 2){
+            document.getElementsByClassName("labelPix")[0].style.display = "none";
+            
+            return;
+        }
+
+        if (event.target.value == 3){
+            document.getElementsByClassName("labelPix")[0].style.display = "flex";
+
+            return;
+        }
+        
+        document.getElementsByClassName("labelPix")[0].style.display = "none";
+    }
+
+    btnSalvar.addEventListener("click", function(event){
+        Swal.fire({
+            title: "Tem certeza?",
+            icon: "warning",
+            text: "Tem certeza que deseja salvar?",
+            showCancelButton: true,
+            confirmButtonColor: "#3085d6",
+            cancelButtonColor: "#d33",
+            confirmButtonText: "Sim",
+        }).then((result) =>{
+            if (result.isConfirmed) {
+                Swal.fire({
+                  title: "Sucesso!",
+                  text: "Salvo com sucesso",
+                  icon: "success"
+                }).then((result) => {
+                    location.href= 'homeLocatario.html';
+                });                
+            }
+        });
+    });
+</script>

@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Inicio</title>
+    <link rel="stylesheet" href="../css/main.css">
+</head>
+<body>
+    <div class="introducao" style="position: fixed;">
+    </div>
+</body>
+</html>
+<style>
+    .introducao {
+        width: 150%;
+        height: 100vh;
+        background-color: #000000;
+    }
+
+    .fadeOut {
+        transition: .2s;
+        opacity: 0;
+    }
+
+    .backgroundBlack {
+        background-color: #272626;
+    }
+</style>
+<!-- <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11/dist/sweetalert2.min.js"></script> -->
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+<script type="text/javascript" defer>
+    var sobreposicao = document.querySelector(".introducao");
+    
+    // var script = document.createElement('script');
+    // script.type = "text/javascript";
+    // script.src = "https://cdn.jsdelivr.net/npm/sweetalert2@11";
+    // document.body.appendChild(script);
+
+    window.onload = () => {
+        let timerInterval;
+        Swal.fire({
+            title: "Bem Vindo a Auto Rental Aluguel de Carros!",
+            imageUrl: "../img/AutoRentalLogo.png",
+            imageWidth: 400,
+            imageHeight: 200,
+            imageAlt: "Custom image",
+            html: "Redirecionado para a página de login em <b></b> milisegundos.",
+            timer: 5000,
+            timerProgressBar: true,
+            allowOutsideClick: false,
+            didOpen: () => {
+                Swal.showLoading();
+                const timer = Swal.getPopup().querySelector("b");
+                timerInterval = setInterval(() => {
+                timer.textContent = `${Swal.getTimerLeft()}`;
+                }, 50);
+
+                var popup = document.querySelector(".swal2-popup");
+                popup.classList.add('backgroundBlack');
+            },
+            willClose: () => {
+                clearInterval(timerInterval);
+                location.href='login/inicio.html';
+            }
+        });
+
+
+        setTimeout(function(){
+            sobreposicao.classList.add('fadeOut')
+        }, 5000)
+
+        setTimeout(() => {
+            document.querySelector(".introducao").remove()
+        }, 5500);
+    }
+    
+</script>
